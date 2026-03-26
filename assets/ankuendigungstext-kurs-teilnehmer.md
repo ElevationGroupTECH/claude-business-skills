@@ -21,7 +21,7 @@ Automatisiertes Context Engineering, Claude geht mit Dir auch größere Projekte
 
 *So installiert ihr die Skills:*
 
-1. Link oben öffnen → grüner "Code"-Button → "Download ZIP"
+1. 📥 Hier runterladen: https://github.com/ElevationGroupTECH/gregs-business-skills/archive/refs/heads/main.zip
 2. ZIP entpacken
 3. Claude sagen: "Installiere die Skills aus ~/Downloads/gregs-business-skills-main/plugins/"
 4. Fertig. Einfach /projekt-starten oder /projekt-review eintippen.
@@ -54,7 +54,7 @@ Beide Skills gibt's auf **Deutsch und Englisch**.
 
 **So installiert ihr die Skills (3 Schritte):**
 
-1. **Herunterladen:** Geht auf https://github.com/ElevationGroupTECH/gregs-business-skills → grüner **"Code"**-Button → **"Download ZIP"** → ZIP entpacken
+1. **Herunterladen:** [📥 Hier klicken](https://github.com/ElevationGroupTECH/gregs-business-skills/archive/refs/heads/main.zip) — Download startet sofort. ZIP entpacken.
 2. **Claude sagen:** "Installiere die Skills aus ~/Downloads/gregs-business-skills-main/plugins/"
 3. **Fertig.** Einfach `/projekt-starten` oder `/projekt-review` in Claude Code eintippen.
 

@@ -49,8 +49,7 @@ Install both. Your future self will thank you.
 
 ### 🟢 The Easy Way (always works)
 
-**Step 1:** Download the files
-- Click the green **"Code"** button above → **"Download ZIP"**
+**Step 1:** [📥 Download here](https://github.com/ElevationGroupTECH/gregs-business-skills/archive/refs/heads/main.zip) (one click, download starts immediately)
 - Unzip the file
 
 **Step 2:** Tell Claude:

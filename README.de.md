@@ -50,8 +50,7 @@ Installier beide. Dein zukünftiges Ich wird es dir danken.
 
 ### 🟢 Weg 1: Am einfachsten (funktioniert IMMER)
 
-**Schritt 1:** Dateien herunterladen
-- Klicke oben den grünen **"Code"**-Button → **"Download ZIP"**
+**Schritt 1:** [📥 Hier herunterladen](https://github.com/ElevationGroupTECH/gregs-business-skills/archive/refs/heads/main.zip) (ein Klick, Download startet sofort)
 - ZIP-Datei entpacken (liegt dann in deinem Downloads-Ordner)
 
 **Schritt 2:** Sage Claude:
