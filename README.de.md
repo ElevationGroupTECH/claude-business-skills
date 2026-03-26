@@ -17,7 +17,7 @@ Ob du den Typ kennst oder selber einer bist: 147 Dateien auf dem Desktop. "Entwu
 
 Hier ist die Sache: **Claude ist nur so gut wie der Kontext, den du ihm gibst.** Das nennt sich Context Engineering — und es ist der Unterschied zwischen einer KI die dich mit "Hugo" anspricht und einer die dein Projekt besser kennt als du selbst.
 
-Diese Skills sind automatisiertes Context Engineering. Du redest 30 Sekunden, und Claude hat eine Projektstruktur, die auch nach Wochen und Monaten noch funktioniert. Keine Context-Verluste. Kein "Wo waren wir nochmal?". Selbst bei großen Projekten.
+Diese Skills sind automatisiertes Context Engineering. Du laberst einfach drauflos — und Claude macht daraus eine Projektstruktur, die auch nach Wochen und Monaten noch funktioniert. Keine Context-Verluste. Kein "Wo waren wir nochmal?". Selbst bei großen Projekten.
 
 ---
 
@@ -101,7 +101,7 @@ Verwandle ein chaotisches Brainstorming in ein sauber strukturiertes Projekt. Du
 - **Verifikation** — drei gezielte Fragen, damit nichts verloren geht
 - **Perspektivwechsel-Check** — raus aus der Macher-Rolle, dein Projekt mit den Augen deiner Zielgruppe sehen
 
-**So funktioniert's:** Starte `/projekt-starten`, erzähl einfach drauflos (Sprachnachricht-Style — chaotisch, unstrukturiert, wild durcheinander), und schau zu wie Claude daraus in unter einer Minute eine saubere Projektstruktur macht.
+**So funktioniert's:** Starte `/projekt-starten`, erzähl einfach drauflos (Sprachnachricht-Style — chaotisch, unstrukturiert, wild durcheinander), und schau zu wie Claude daraus eine saubere Projektstruktur macht.
 
 ### `/projekt-review` — Hochglanz-Check (Dein Projekt-Score)
 

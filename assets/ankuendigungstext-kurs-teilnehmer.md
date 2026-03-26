@@ -12,7 +12,7 @@ Und was steckt drin? *Greg's Project Cockpit*
 
 Zwei Skills, für Strukturbedürftige und Excellence-Lovers:
 
-📁 */projekt-starten* — Du redest drauflos, Claude macht in 30 Sekunden ein sauber aufgesetztes Projekt. Chaos ade.
+📁 */projekt-starten* — Du redest drauflos, Claude macht daraus ein sauber aufgesetztes Projekt. Chaos ade.
 🔍 */projekt-review* — Räumt Dein Projekt auf. Gibt deinem Projekt einen Score von 10. Und repariert das Offensichtliche gleich selbst. (Der Score ist ehrlich. 😄)
 
 Automatisiertes Context Engineering, Claude geht mit Dir auch größere Projekte sauber bis zum Ende - und spricht nur echte Hugos mit Hugo an. Kostenlos. Open Source. ❤️ Für euch.

@@ -17,7 +17,7 @@ Whether you know the type or you ARE the type: 147 files on the desktop. "Final_
 
 Here's the thing: **Claude is only as good as the context you give it.** That's called context engineering — and it's the difference between an AI that calls you "Hugo" and one that knows your project better than you do.
 
-These skills are automated context engineering. You talk for 30 seconds, and Claude has a project structure that still works after weeks and months. No context loss. No "Where were we again?". Even with large projects.
+These skills are automated context engineering. You just talk — and Claude turns it into a project structure that still works after weeks and months. No context loss. No "Where were we again?". Even with large projects.
 
 ---
 
@@ -98,7 +98,7 @@ Turn a chaotic brain dump into a properly structured project. You talk, Claude o
 - **Verification** — three targeted questions to make sure nothing was lost in translation
 - **Perspective shift check** — step out of creator mode, look at your project through your customer's eyes
 
-**How it works:** Run `/project-kickoff`, dump everything you know about your project (voice message style is fine — messy, unstructured, all over the place), and watch Claude turn it into a pristine project structure in under a minute.
+**How it works:** Run `/project-kickoff`, dump everything you know about your project (voice message style is fine — messy, unstructured, all over the place), and watch Claude turn it into a pristine project structure.
 
 ### `/project-review` — Polish Check (Score Your Project)
 
