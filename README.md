@@ -1,3 +1,5 @@
+🇬🇧 English | [🇩🇪 Deutsch](README.de.md)
+
 # Claude Business Skills
 
 **Most people use Claude like a fancy autocomplete. These skills turn it into a project manager.**

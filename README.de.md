@@ -1,3 +1,5 @@
+[🇬🇧 English](README.md) | 🇩🇪 Deutsch
+
 # Claude Business Skills
 
 **Die meisten nutzen Claude wie eine schicke Suchmaschine. Diese Skills machen daraus einen Projektmanager.**
