@@ -1,0 +1,16 @@
+{
+  "name": "claude-business-skills",
+  "displayName": "Claude Business Skills",
+  "description": "Professional project management skills for Claude Code. Set up projects with proper structure, track progress, and keep everything polished.",
+  "author": "ElevationGroupTECH",
+  "homepage": "https://www.teiledeinebotschaft.de",
+  "repository": "https://github.com/ElevationGroupTECH/claude-business-skills",
+  "license": "Apache-2.0",
+  "languages": ["de", "en"],
+  "plugins": [
+    "plugins/projekt-starten",
+    "plugins/project-kickoff",
+    "plugins/projekt-review",
+    "plugins/project-review"
+  ]
+}

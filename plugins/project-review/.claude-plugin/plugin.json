@@ -1,0 +1,8 @@
+{
+  "name": "project-review",
+  "displayName": "Project Review — Polish Check",
+  "description": "Bring a grown project back to a polished state — score, automatic fixes, concrete recommendations. English version.",
+  "language": "en",
+  "version": "1.0.0",
+  "skills": ["skills/project-review"]
+}

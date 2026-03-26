@@ -1,0 +1,8 @@
+{
+  "name": "project-kickoff",
+  "displayName": "Project Kickoff",
+  "description": "Set up new projects properly — with project description, changelog, CLAUDE.md, and clean structure. English version.",
+  "language": "en",
+  "version": "1.0.0",
+  "skills": ["skills/project-kickoff"]
+}
