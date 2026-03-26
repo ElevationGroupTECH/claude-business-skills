@@ -1,5 +1,9 @@
 🇬🇧 English | [🇩🇪 Deutsch](README.de.md)
 
+<p align="center">
+  <img src="assets/claude-business-skills-hero.png" alt="Claude Business Skills" width="700">
+</p>
+
 # Claude Business Skills
 
 **Most people use Claude like a fancy autocomplete. These skills turn it into a project manager.**
@@ -166,7 +170,7 @@ These skills were born from running dozens of real projects with Claude Code. Th
 
 **Want to go deeper?**
 - [Visit our website](https://www.teiledeinebotschaft.de) — Online business without tech headaches
-- [Watch our story](https://www.teiledeinebotschaft.de/imagefilm) — Who else has experienced this?
+- [Meet the team](https://www.teiledeinebotschaft.de/termin) — Book a free intro call
 - [Read what our clients say](https://www.teiledeinebotschaft.de/kundenstimmen) — Real voices, real results
 
 ---

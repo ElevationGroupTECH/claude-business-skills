@@ -1,5 +1,9 @@
 [🇬🇧 English](README.md) | 🇩🇪 Deutsch
 
+<p align="center">
+  <img src="assets/claude-business-skills-hero.png" alt="Claude Business Skills" width="700">
+</p>
+
 # Claude Business Skills
 
 **Die meisten nutzen Claude wie eine schicke Suchmaschine. Diese Skills machen daraus einen Projektmanager.**
@@ -166,7 +170,7 @@ Diese Skills sind aus dutzenden echten Projekten mit Claude Code entstanden. Sie
 
 **Willst du tiefer einsteigen?**
 - [Unsere Website](https://www.teiledeinebotschaft.de) — Online-Business ohne Technik-Kopfschmerzen
-- [Unser Imagefilm](https://www.teiledeinebotschaft.de/imagefilm) — Wer hat das auch schon erlebt?
+- [Termin buchen](https://www.teiledeinebotschaft.de/termin) — Kostenloses Erstgespräch
 - [Kundenstimmen](https://www.teiledeinebotschaft.de/kundenstimmen) — Echte Stimmen, echte Ergebnisse
 
 ---
