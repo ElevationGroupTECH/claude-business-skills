@@ -154,16 +154,6 @@ If you've ever reopened a Claude conversation and spent 10 minutes re-explaining
 
 ---
 
-## Coming Soon
-
-More skill bundles are on the way. Stay tuned for:
-
-- **Summit King 👑** — Everything you need for online summits and virtual conferences
-
-Star this repo to get notified when new bundles drop.
-
----
-
 ## A Word of Honesty
 
 These skills aren't magic. They won't fix a project that has no clear goal, and they won't replace thinking about what you're actually building. What they will do is remove the friction of setting up and maintaining the boring-but-essential project scaffolding — so you can focus on the work that matters.

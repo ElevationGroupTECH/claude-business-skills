@@ -157,16 +157,6 @@ Wenn du jemals eine Claude-Konversation neu geöffnet und 10 Minuten damit verbr
 
 ---
 
-## Bald verfügbar
-
-Weitere Skill-Bundles sind in Arbeit. Stay tuned:
-
-- **Summit King 👑** — Alles was du für Online-Kongresse und virtuelle Konferenzen brauchst
-
-Gib dem Repo einen Star, um benachrichtigt zu werden, wenn neue Bundles erscheinen.
-
----
-
 ## Ein ehrliches Wort
 
 Diese Skills sind keine Magie. Sie retten kein Projekt ohne klares Ziel, und sie ersetzen nicht das Nachdenken darüber, was du eigentlich baust. Was sie tun: Sie nehmen dir die Reibung beim Aufsetzen und Pflegen des langweiligen-aber-wichtigen Projekt-Gerüsts ab — damit du dich auf die Arbeit konzentrieren kannst, die wirklich zählt.
