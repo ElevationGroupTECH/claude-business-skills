@@ -140,28 +140,13 @@ Diese Skills kodieren hunderte Stunden echte Projekt-Erfahrung mit Claude in wie
 
 ## Beispiele
 
-**Vor `/projekt-starten`:**
-```
-mein-projekt/
-├── notizen.txt
-├── ideen.docx
-├── entwurf.docx
-├── entwurf_v2.docx
-├── entwurf_FINAL.docx
-└── zeug/
-```
+<p align="center">
+  <img src="assets/before-after-project-structure.png" alt="Vorher und Nachher — Projektstruktur" width="600">
+</p>
 
-**Nach `/projekt-starten`:**
-```
-mein-projekt/
-├── CLAUDE.md
-├── 01-Projektbeschreibung-Kundenportal-V01.md
-├── 02-Protokoll-Kundenportal.md
-└── xold/
-```
-
-**Vor `/projekt-review`:** Score 3.2 / 10 😫
-**Nach `/projekt-review`:** Score 9.1 / 10 🏆🏆🏆
+<p align="center">
+  <img src="assets/review-score-example.png" alt="Projekt-Review Score Beispiel" width="400">
+</p>
 
 ---
 

@@ -139,28 +139,13 @@ These skills encode hundreds of hours of real-world project management with Clau
 
 ## Examples
 
-**Before `/project-kickoff`:**
-```
-my-project/
-├── notes.txt
-├── ideas.docx
-├── final.docx
-├── final_v2.docx
-├── final_FINAL.docx
-└── stuff/
-```
+<p align="center">
+  <img src="assets/before-after-project-structure.png" alt="Before and After Project Kickoff" width="600">
+</p>
 
-**After `/project-kickoff`:**
-```
-my-project/
-├── CLAUDE.md
-├── 01-Project-Description-ClientPortal-V01.md
-├── 02-Changelog-ClientPortal.md
-└── xold/
-```
-
-**Before `/project-review`:** Score 3.2 / 10 😫
-**After `/project-review`:** Score 9.1 / 10 🏆🏆🏆
+<p align="center">
+  <img src="assets/review-score-example.png" alt="Project Review Score Example" width="400">
+</p>
 
 ---
 
