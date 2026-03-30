@@ -4,7 +4,7 @@
 <td width="160"><img src="assets/gregs-business-skills-hero.png" alt="Greg's Business Skills" width="140"></td>
 <td>
 
-# Greg's Business Skills
+# Greg's Business Skills **v1.2.0**
 
 **Wie Neo in Matrix die Kampfkunst — nur in Business-Kunst. Skills einklinken, Struktur downloaden, loslegen.**
 
@@ -29,15 +29,15 @@ Dein erstes Skill-Bundle. Zwei Skills für Strukturbedürftige und Excellence-Lo
 
 ```
   /projekt-starten              /projekt-review
-  ┌────────────────┐            ┌────────────────┐
-  │ SAUBER         │            │ SAUBER         │
-  │ STARTEN        │            │ HALTEN         │
-  │                │ ────────>  │                │
-  │ Struktur       │ Arbeiten   │ Score          │
-  │ Beschreibung   │ <────────  │ Fixen          │
-  │ Protokoll      │            │ Polieren       │
-  │ CLAUDE.md      │            │ Feiern         │
-  └────────────────┘            └────────────────┘
+  +----------------+            +----------------+
+  | SAUBER         |            | SAUBER         |
+  | STARTEN        |            | HALTEN         |
+  |                | -------->  |                |
+  | Struktur       | Arbeiten   | Score          |
+  | Beschreibung   | <--------  | Fixen          |
+  | Protokoll      |            | Polieren       |
+  | CLAUDE.md      |            | Feiern         |
+  +----------------+            +----------------+
 ```
 
 **`/projekt-starten`** legt ein sauberes Fundament. **`/projekt-review`** hält es sauber, während das Projekt wächst. Ohne Review verwildert jedes Projekt zum Dschungel. Ohne guten Start gibt's nichts, was sich zu reviewen lohnt.
@@ -60,8 +60,8 @@ Fertig. Claude findet die SKILL.md-Dateien und kopiert sie dahin, wo sie hingeh�
 
 **Oder manuell kopieren:**
 ```
-plugins/projekt-starten/skills/projekt-starten/SKILL.md  →  ~/.claude/commands/projekt-starten.md
-plugins/projekt-review/skills/projekt-review/SKILL.md    →  ~/.claude/commands/projekt-review.md
+plugins/projekt-starten/skills/projekt-starten/SKILL.md  -->  ~/.claude/commands/projekt-starten.md
+plugins/projekt-review/skills/projekt-review/SKILL.md    -->  ~/.claude/commands/projekt-review.md
 ```
 
 Dann Claude Code neu starten oder `/commands` eingeben zum Prüfen.
@@ -82,7 +82,7 @@ Dann Claude Code neu starten oder `/commands` eingeben zum Prüfen.
 /plugin install project-review@gregs-business-skills      # English
 ```
 
-Falls das nicht funktioniert → Weg 1 nutzen.
+Falls das nicht funktioniert --> Weg 1 nutzen.
 
 Dann einfach `/projekt-starten` oder `/projekt-review` in einer beliebigen Claude-Code-Session starten.
 
@@ -98,8 +98,10 @@ Verwandle ein chaotisches Brainstorming in ein sauber strukturiertes Projekt. Du
 - **Protokoll** mit Phasen, Meilensteinen, Aufgaben-Tracking und Log-Einträgen
 - **CLAUDE.md** damit Claude genau weiß, was es lesen soll und wie es sich im Projekt verhalten soll
 - **Smarte Größenanpassung** — kleine Projekte bleiben flach, große bekommen Buchstaben-Prefix + nummerierte Unterordner
+- **Bewertungsspalten** — Jede Aufgabe wird bewertet: Kann Claude das allein? Wie hoch ist der Impact? Wer muss zuliefern? Wie riskant? Was ist der Rollback?
 - **Verifikation** — drei gezielte Fragen, damit nichts verloren geht
 - **Perspektivwechsel-Check** — raus aus der Macher-Rolle, dein Projekt mit den Augen deiner Zielgruppe sehen
+- **Übergabeprotokoll** — Projekt in einem Chat geplant und jetzt in einem neuen Chat umsetzen? Einfach das Übergabeprotokoll mitbringen — Claude überspringt die Fragen die schon beantwortet sind.
 
 **So funktioniert's:** Starte `/projekt-starten`, erzähl einfach drauflos (Sprachnachricht-Style — chaotisch, unstrukturiert, wild durcheinander), und schau zu wie Claude daraus eine saubere Projektstruktur macht.
 
@@ -122,7 +124,7 @@ Dieser Skill macht ein umfassendes Review und gibt dir einen **Hochglanz-Score v
 2. Automatische Fixes (Sortierung, Log-Index, Dateiübersicht — das Offensichtliche)
 3. Entscheidungstabelle (Dinge, die deinen Input brauchen)
 4. Empfohlene Aufgaben mit Priorität und Score-Impact
-5. Score-Prognose: "Wenn du das alles machst → 9.2 / 10"
+5. Score-Prognose: "Wenn du das alles machst --> 9.2 / 10"
 
 **Die Score-Skala:**
 ```

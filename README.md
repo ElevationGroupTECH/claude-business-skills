@@ -4,7 +4,7 @@
 <td width="160"><img src="assets/gregs-business-skills-hero.png" alt="Greg's Business Skills" width="140"></td>
 <td>
 
-# Greg's Business Skills
+# Greg's Business Skills **v1.2.0**
 
 **Like Neo downloading kung fu in The Matrix — except it's business skills. Plug in, download structure, go.**
 
@@ -29,14 +29,14 @@ Your first skill bundle. Two skills for structure lovers and excellence seekers:
 
 ```
   /project-kickoff              /project-review
-  ┌────────────────┐            ┌────────────────┐
-  │ START RIGHT    │            │ STAY RIGHT     │
-  │                │            │                │
-  │ Structure      │ ────────>  │ Score          │
-  │ Description    │   Work     │ Fix            │
-  │ Changelog      │ <────────  │ Polish         │
-  │ CLAUDE.md      │            │ Celebrate      │
-  └────────────────┘            └────────────────┘
+  +----------------+            +----------------+
+  | START RIGHT    |            | STAY RIGHT     |
+  |                |            |                |
+  | Structure      | -------->  | Score          |
+  | Description    |   Work     | Fix            |
+  | Changelog      | <--------  | Polish         |
+  | CLAUDE.md      |            | Celebrate      |
+  +----------------+            +----------------+
 ```
 
 **`/project-kickoff`** sets up a clean foundation. **`/project-review`** keeps it clean as the project grows. Without review, every project turns into a jungle. Without a good kickoff, there's nothing worth reviewing.
@@ -59,8 +59,8 @@ Done. Claude finds the SKILL.md files and puts them where they belong.
 
 **Or copy them manually:**
 ```
-plugins/project-kickoff/skills/project-kickoff/SKILL.md  →  ~/.claude/commands/project-kickoff.md
-plugins/project-review/skills/project-review/SKILL.md    →  ~/.claude/commands/project-review.md
+plugins/project-kickoff/skills/project-kickoff/SKILL.md  -->  ~/.claude/commands/project-kickoff.md
+plugins/project-review/skills/project-review/SKILL.md    -->  ~/.claude/commands/project-review.md
 ```
 
 Then restart Claude Code or type `/commands` to verify.
@@ -95,8 +95,10 @@ Turn a chaotic brain dump into a properly structured project. You talk, Claude o
 - **Changelog** with phases, milestones, task tracking, and log entries
 - **CLAUDE.md** so Claude knows exactly what to read and how to behave in your project
 - **Smart sizing** — small projects stay flat, large ones get letter-prefixed docs + numbered subfolders
+- **Assessment columns** — Every task gets assessed: Can Claude handle it alone? What's the impact? Who needs to deliver? How risky? What's the rollback?
 - **Verification** — three targeted questions to make sure nothing was lost in translation
 - **Perspective shift check** — step out of creator mode, look at your project through your customer's eyes
+- **Handoff protocol** — Planned the project in one chat and implementing in another? Bring the handoff protocol — Claude skips questions already answered.
 
 **How it works:** Run `/project-kickoff`, dump everything you know about your project (voice message style is fine — messy, unstructured, all over the place), and watch Claude turn it into a pristine project structure.
 
@@ -119,7 +121,7 @@ This skill runs a comprehensive review and gives you a **Polish Score out of 10*
 2. Automatic fixes (sort order, log index, file overview — the obvious stuff)
 3. Decision table (things that need your input)
 4. Recommended tasks with priority and score impact
-5. Score forecast: "If you do all of this → 9.2 / 10"
+5. Score forecast: "If you do all of this --> 9.2 / 10"
 
 **The score scale:**
 ```
